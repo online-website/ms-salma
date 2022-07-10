@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ms-salma/static/css/main.f07b8207.css",
+    "main.js": "/ms-salma/static/js/main.713be6e9.js",
+    "static/media/abc.png": "/ms-salma/static/media/abc.c53806a63a1f0b371d46.png",
+    "static/media/lap.png": "/ms-salma/static/media/lap.9325cfb8ea1914f64f0d.png",
+    "static/media/source.png": "/ms-salma/static/media/source.a5b32ffe280d6a220011.png",
+    "static/media/cer.png": "/ms-salma/static/media/cer.66124ba4c86328f6a856.png",
+    "static/media/success.png": "/ms-salma/static/media/success.7c6b48ac5935c8143cac.png",
+    "static/media/logo.png": "/ms-salma/static/media/logo.88e7649c9fea77d53f36.png",
+    "static/media/revicons.eot": "/ms-salma/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/ms-salma/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/ms-salma/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/ms-salma/index.html",
+    "main.f07b8207.css.map": "/ms-salma/static/css/main.f07b8207.css.map",
+    "main.713be6e9.js.map": "/ms-salma/static/js/main.713be6e9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f07b8207.css",
+    "static/js/main.713be6e9.js"
+  ]
+}
