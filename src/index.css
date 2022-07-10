@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css2?family=Cairo:wght@400;700&display=swap");
+
+html {
+  font-size: 62.5%;
+  scroll-behavior: smooth;
+  overflow-x: hidden;
+}
+
+body {
+  margin: 0;
+  background-image: linear-gradient(90deg, #ab92fa, #886fee);
+  font-family: "Cairo", sans-serif;
+  font-size: 1.6rem;
+  color: #fff;
+  overflow-x: hidden;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+a , a:focus, a:visited{
+  text-decoration: none;
+  color: #fff;
+}
+
+
+button:focus, button:hover {
+  outline: none;
+  border: none;
+  background: none;
+}
+
+p {
+  margin: 0;
+  padding: 0;
+}

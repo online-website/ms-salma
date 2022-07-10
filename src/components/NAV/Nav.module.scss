@@ -1,0 +1,29 @@
+.nav {
+
+
+  display: flex;
+  height: 7rem;
+  justify-content: space-between;
+  padding: 1rem 2rem;
+  align-items: center;
+
+  .logo {
+    display: flex;
+    align-items: center;
+    img {
+      width: 70px;
+      height: 70px;
+    }
+  }
+
+  &__social {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 40px;
+    //
+    &--icon {
+      font-size: 30px;
+    }
+  }
+}
