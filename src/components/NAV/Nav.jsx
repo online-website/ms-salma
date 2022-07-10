@@ -12,8 +12,8 @@ const Nav = () => {
           <img src={logo} alt="logo"/>
         </div>
         <ul className={classes["nav__social"]}>
-        <a href='tel:01153291137'  ><AiOutlineWhatsApp className={`${classes["nav__social--facebook"]} ${classes["nav__social--icon"]}`}/></a>
-        <a href='https://www.facebook.com/profile.php?id=100041974313008'><FiFacebook  className={`${classes["nav__social--facebook"]} ${classes["nav__social--icon"]}` } /></a>
+        <a target="_blank"  rel="noreferrer"  href='tel:01153291137'  ><AiOutlineWhatsApp className={`${classes["nav__social--facebook"]} ${classes["nav__social--icon"]}`}/></a>
+        <a target="_blank"  rel="noreferrer" href='https://www.facebook.com/profile.php?id=100041974313008'><FiFacebook  className={`${classes["nav__social--facebook"]} ${classes["nav__social--icon"]}` } /></a>
         </ul>
       </nav>
   )
