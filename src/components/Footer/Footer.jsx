@@ -18,7 +18,7 @@ const Footer = () => {
           <a
           target="_blank"
             href="https://abdelrahman.website"
-            style={{ textDecoration: "underline", color: "#886fee" }}
+            style={{ textDecoration: "underline", color: "#6741d9" }}
             rel="noreferrer"
           >
             abdelrahman ahmed
