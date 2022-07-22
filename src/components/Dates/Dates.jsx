@@ -1,7 +1,7 @@
 import React from "react";
 
 import Date from "../ui/Date";
-import  "./Dates.scss";
+import "./Dates.scss";
 
 import Carousel from "react-multi-carousel";
 import "react-multi-carousel/lib/styles.css";
@@ -36,9 +36,17 @@ const Dates = () => {
         infinite={true}
         className={"dates__container"}
       >
-        <Date firstDay={"11 رياضه"} secondDay={"11 علوم"} title={"أولي إعدادي"}/>
-        <Date firstDay={"12 رياضه"} secondDay={"12 علوم"} title={"ثانيه إعدادي"}/>
-        <Date firstDay={"1 رياضه"} secondDay={"1 علوم"} title={"ثالثه إعدادي"}/>
+        <Date firstDay={"1 رياضه"} secondDay={"1 علوم"} title={"أولي إعدادي"} />
+        <Date
+          firstDay={"12 رياضه"}
+          secondDay={"12 علوم"}
+          title={"ثانيه إعدادي"}
+        />
+        <Date
+          firstDay={"11 رياضه"}
+          secondDay={"11 علوم"}
+          title={"ثالثه إعدادي"}
+        />
       </Carousel>
     </section>
   );
